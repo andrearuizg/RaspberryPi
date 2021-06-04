@@ -1,0 +1,15 @@
+[Unit]
+Description=My service
+After=myservice.target 
+
+[Service]
+Type=simple 
+ExecStart=/usr/bin/bash /home/pi/ping.sh
+WorkingDirectory=/home/pi
+Restart=on-failure 
+StandardOutput=syslog 
+StandardError=syslog 
+User=pi
+
+[Install]
+WantedBy=reboot.target

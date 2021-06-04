@@ -1,0 +1,19 @@
+Hay conexión a internet
+Se enviará la imagen /home/pi/Documentos/00a4-camera_color_image_raw-1607626167170.png encriptada al pc.
+Hay conexión a internet
+Se enviará la imagen /home/pi/Documentos/00a4-camera_color_image_raw-1667160762670.png encriptada al pc.
+Hay conexión a internet
+Se enviará la imagen /home/pi/Documentos/00a4-camera_color_image_raw-1707616067261.png encriptada al pc.
+Hay conexión a internet
+Se enviará la imagen /home/pi/Documentos/00a4-camera_color_image_raw-1860761671670.png encriptada al pc.
+Hay conexión a internet
+Se enviará la imagen /home/pi/Documentos/00a4-camera_color_image_raw-1907324167755.png encriptada al pc.
+No hay conexión a internet
+No hay conexión a internet
+No hay conexión a internet
+No hay conexión a internet
+No hay conexión a internet
+Hay conexión a internet
+Se enviará la imagen /home/pi/Documentos/00a4-camera_color_image_raw-2007626167170.png encriptada al pc.
+Hay conexión a internet
+Se enviará la imagen /home/pi/Documentos/00a4-camera_color_image_raw-2067160671670.png encriptada al pc.
